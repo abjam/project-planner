@@ -1,0 +1,16 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "Create New Homepage Banner",
+            "details": "Joziat",
+            "complete": false
+        }, 
+        {
+            "id": 2,
+            "title": "Make Martketing Email",
+            "details": "Jzoiiiat",
+            "complete": false
+        }
+    ]
+}
